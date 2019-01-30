@@ -85,6 +85,7 @@ body {
 }
 .content {
   font-family: "Gill Sans", sans-serif;
+  font-size: 22px;
 }
 .sidebar, .sidebar2 {
   background-color: #ccc;
