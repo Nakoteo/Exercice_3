@@ -84,8 +84,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.sidebar2 {
+.sidebar, .sidebar2 {
   background-color: #ccc;
   color: #444;
+  font-family: "Gill Sans", sans-serif;
 }
 
